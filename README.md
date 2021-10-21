@@ -5,7 +5,7 @@
 * [Simulation_results](#simulation_results)
 
 ## General info
-This project was done by team “conquerors” towards the Build-a-thon hosted by ITU FG AN in ITU AI/ML in 5G Challenge (2021). It will cover the simulator configurations and files (INI, NED files), results obtained so far (CSV files), and the Report. .
+This project was done by team “conquerors” towards the Build-a-thon hosted by ITU FG AN in ITU AI/ML in 5G Challenge (2021). It will cover the simulator configurations and files, results obtained so far, and the Report.
 	
 ## Technologies
 Project is created with:

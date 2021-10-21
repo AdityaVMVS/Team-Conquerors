@@ -2,7 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Simulation Results](#Simulation Results)
+* [Simulation_results](#simulation_results)
 
 ## General info
 This project is a report was done by team “conquerors” towards the Build-a-thon hosted by ITU FG AN in ITU AI/ML in 5G Challenge (2021). It will cover the simulator configurations and files (INI, NED files), results obtained so far (CSV files), and the Report. .
@@ -13,7 +13,7 @@ Project is created with:
 * OMNETT++ version: 6
 * INET version: 4.3.2
 	
-## Simulation Results
+## Simulation_results
 Please refer to the report folder for the problem statement and the scenerios that were simulated as part of this project. 
 The results that were obtained from the simulation for the scenerios are listed below:
 * Avg served blocks DL (vector) for Single cell with secondary GnB (results are available in cc_0_sc_dl.csv in CSV Files folder)

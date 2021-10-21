@@ -5,7 +5,7 @@
 * [Simulation_results](#simulation_results)
 
 ## General info
-This project is a report was done by team “conquerors” towards the Build-a-thon hosted by ITU FG AN in ITU AI/ML in 5G Challenge (2021). It will cover the simulator configurations and files (INI, NED files), results obtained so far (CSV files), and the Report. .
+This project was done by team “conquerors” towards the Build-a-thon hosted by ITU FG AN in ITU AI/ML in 5G Challenge (2021). It will cover the simulator configurations and files (INI, NED files), results obtained so far (CSV files), and the Report. .
 	
 ## Technologies
 Project is created with:
@@ -20,7 +20,9 @@ The results that were obtained from the simulation for the scenerios are listed 
 * Avg served blocks DL (vector) for  Multi cell with secondary GnB (results are available in mc_0_sc_dl.csv in CSV Files folder)
 * Avg served blocks UL (vector) for Single cell with secondary GnB (results are available in sc_0_sc_ul.csv in CSV Files folder)
 * Avg served blocks UL (vector) for Multi cell with secondary GnB  (results are available in mc_0_sc_ul.csv in CSV Files folder)
+
 The results for the scenerios that were mentioned above can be found at "CSV folder" and corresponding results were converted into a CSV format.
+
 
 
 
